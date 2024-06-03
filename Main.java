@@ -9,7 +9,7 @@ class Main {
 	public static void main(String args[]) {
 		
 		// initialise directories
-		String directoryDrivers = "src\\textFiles\\drivers.txt";
+		String directoryDrivers = "src\\textFiles\\driver-info.txt";
 		String directoryInvoice = "src\\textFiles\\invoice.txt";
 		
 		// initialise foodItem objects
