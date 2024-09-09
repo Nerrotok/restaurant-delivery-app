@@ -5,8 +5,8 @@ An app that creates an invoice for a food delivery based on information provided
 
 # Table of Contents
 
-1.[**Set-Up**](#set-up)
-2.[**Usage**](#usage)
+1. [**Set-Up**](#set-up)
+2. [**Usage**](#usage)
 
 # Set Up
 
